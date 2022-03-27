@@ -1,4 +1,4 @@
-## Kodluyoruz Adventure Game Ödevidir
+## Adventure Game Ödevidir
 
 Ödevler
 
